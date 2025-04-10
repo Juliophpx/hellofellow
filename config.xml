@@ -1,0 +1,8 @@
+<widget id="com.hellofellow.app" version="1.0.0">
+  <name>Fellow</name>
+  <content src="index.html"/>
+  <allow-navigation href="*"/>
+  <platform name="ios">
+    <allow-intent href="*"/>
+  </platform>
+</widget>
